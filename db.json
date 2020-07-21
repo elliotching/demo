@@ -13,20 +13,5 @@
                 "value": "2000"
             }
         ]
-    },
-    "postsvs": {
-        "resultcode": "api.001",
-        "resultdescription": "OK",
-        "resultuilanguage": "ENG",
-        "resultuimessage": "OK",
-        "forceupdate": "false",
-        "productratio": "0.01",
-        "referralon": "true",
-        "appsettings": [
-            {
-                "settingkey": "pointtransthreshold",
-                "value": "2000"
-            }
-        ]
     }
 }
