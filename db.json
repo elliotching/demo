@@ -1,5 +1,5 @@
 {
-  "v1/getappsetting/getappsetting": {
+  "v1\/getappsetting\/getappsetting": {
   "resultcode": "api.001",
   "resultdescription": "OK",
   "resultuilanguage": "ENG",
