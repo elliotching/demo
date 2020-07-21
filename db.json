@@ -1,7 +1,18 @@
 {
-  "v1/getappsetting/getappsetting": [
-    { "id": 4, "title": "Post 1" },
-    { "id": 5, "title": "Post 2" },
-    { "id": 6, "title": "Post 3" }
+  "v1/getappsetting/getappsetting": {
+  "resultcode": "api.001",
+  "resultdescription": "OK",
+  "resultuilanguage": "ENG",
+  "resultuimessage": "OK",
+  "forceupdate": "false",
+  "productratio": "0.01",
+  "referralon": "true",
+  "appsettings": [
+    {
+      "settingkey": "pointtransthreshold",
+      "value": "2000"
+    }
   ]
+}
+
 }
